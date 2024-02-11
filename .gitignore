@@ -1,0 +1,17 @@
+# Temp files
+*.tmp
+
+# Log files
+*.log
+
+# Environments
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# other files/folders
+images/
+docs/
